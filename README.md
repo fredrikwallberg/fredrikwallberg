@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**fredrikwallberg/fredrikwallberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Cytometry In R - starter questions
 
 Location: Baltimore, Maryland, USA
